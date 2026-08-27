@@ -7,28 +7,20 @@ nav: true
 nav_order: 4
 ---
 
-For teaching inquiries, contact me at jean-baptiste dot doderlein at irisa dot fr.
 
 ## IDM
 
-The full page for the lecture is available [here](https://people.irisa.fr/Benoit.Combemale/course/esir/esir3/#esir3-si-s9-ase). I teach the practical lab sessions for this course for the Master 2 students of [ISTIC](https://istic.univ-rennes.fr/en).
+The full page for the lecture is available [here](https://people.irisa.fr/Benoit.Combemale/course/istic/m2il/). I teach the practical lab sessions for this course for the Master 2 students of [ISTIC](https://istic.univ-rennes.fr/en).
+This course provides advanced insights on automated software engineering, incl. software language engineering, domain-specific languages, software product lines, generative appraoches, etc.
 
-## 
+## Agrégation preparation
+
+I run practical sessions and oral exams as part of the [preparation for the agrégation at ENS Rennes](https://informatique.ens-rennes.fr/formation/agregation-informatique).
+
+The topics I teach include debugging, software testing, SQL, and Python programming.
 
 ## MP2I oral examinations
 
-I conducted oral examinations at Lycée Alain Lesage in Vannes during the 2024–2025 academic year. The exercises and solutions are in French.
+I conducted oral examinations at Lycée Alain Lesage in Vannes during the 2024–2025 academic year.
 
-| Date              | Exercise                                                                                         | Solution                                                                                                                                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 25 September 2024 | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/250924/sujet.pdf) | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/250924/corrige.pdf) · [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/250924/corrige.ipynb) |
-| 2 October 2024    | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/021024/sujet.pdf) | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/021024/corrige.pdf) · [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/021024/corrige.ipynb) |
-| 9 October 2024    | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/091024/sujet.pdf) | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/091024/corrige.pdf) · [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/091024/corrige.ipynb) |
-| 16 October 2024   | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/161024/sujet.pdf) | [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/161024/corrige.ipynb)                                                                                                      |
-| 6 November 2024   | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/061124/sujet.pdf) | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/061124/corrige.pdf) · [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/061124/corrige.ipynb) |
-| 13 November 2024  | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/131124/sujet.pdf) | [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/131124/corrige.ipynb)                                                                                                      |
-| 22 November 2024  | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/221124/sujet.pdf) | [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/221124/corrige.ipynb)                                                                                                      |
-| 29 November 2024  | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/291124/sujet.pdf) | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/291124/corrige.pdf) · [Notebook](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/291124/corrige.ipynb) |
-| 6 December 2024   | [PDF](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/kholle/061224/sujet.pdf) | —                                                                                                                                                                                                              |
-
-I thank Martin Andrieux, Gauvain Thomas, Nathan Mérillon, Paul Chaurand, Valentin Haudiquet, and Thibault Chanus for their reviews.
+The examinations cover first-year undergraduate computer science topics, including functional programming, algorithms, logic, and databases.

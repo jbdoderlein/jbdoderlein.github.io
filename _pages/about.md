@@ -18,8 +18,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in computer science at IRISA. My research interests are systems programming and live programming environments.
+I am a PhD student in computer science at IRISA. My research interests are oftware language engineering, live programming, and tools for understanding and exploring software systems.
 
-I previously studied AI-assisted code generation. I received the agrégation in computer science in 2024.
+I received the agrégation in computer science in 2024.
 
 My CV is available in [French](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/CV%20Jean-Baptiste%20D%C3%B6derlein%20FR.pdf) and [English](https://perso.eleves.ens-rennes.fr/people/jean-baptiste.doderlein/CV%20Jean-Baptiste%20D%C3%B6derlein%20EN.pdf).
