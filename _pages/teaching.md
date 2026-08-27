@@ -9,6 +9,10 @@ nav_order: 4
 
 For teaching inquiries, contact me at jean-baptiste dot doderlein at irisa dot fr.
 
+## IDM
+
+The full page for the lecture is available [here](https://people.irisa.fr/Benoit.Combemale/course/esir/esir3/#esir3-si-s9-ase). I teach the practical lab sessions for this course for the Master 2 students of [ISTIC](https://istic.univ-rennes.fr/en).
+
 ## MP2I oral examinations
 
 I conducted oral examinations at Lycée Alain Lesage in Vannes during the 2024–2025 academic year. The exercises and solutions are in French.
