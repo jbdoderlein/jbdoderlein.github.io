@@ -7,7 +7,7 @@ first_name: Jean-Baptiste
 middle_name:
 last_name: Döderlein
 contact_note: >
-  Contact: jean-baptiste dot doderlein at ens-rennes dot fr
+  Contact: jean-baptiste dot doderlein at irisa dot fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Jean-Baptiste Döderlein, a computer science PhD student at IRISA and Université de Rennes.
 footer_text: >
