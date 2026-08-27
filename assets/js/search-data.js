@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Selected software projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Materials for courses and oral examinations that I teach or taught.",
@@ -28,7 +35,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%65%61%6E-%62%61%70%74%69%73%74%65.%64%6F%64%65%72%6C%65%69%6E@%65%6E%73-%72%65%6E%6E%65%73.%66%72", "_blank");
+          window.open("mailto:%6A%65%61%6E-%62%61%70%74%69%73%74%65.%64%6F%64%65%72%6C%65%69%6E@%69%72%69%73%61.%66%72", "_blank");
         },
       },{
         id: 'social-dblp',
@@ -43,6 +50,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-9741-8571", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=wRKliCQAAAAJ", "_blank");
         },
       },{
         id: 'social-github',
